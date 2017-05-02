@@ -1,0 +1,65 @@
+arp
+arp -a
+arp -s
+arp -a -d
+
+curl
+curl -m
+curl -C
+
+dig
+
+ftp
+findsmb
+
+gated
+
+ipnat f
+ipnat l
+ipnat C F
+ifup
+ifdown
+iwconfig
+ifplugstatus
+ifconfig
+
+mtr
+
+nbtstat
+netstat
+netstat -r
+netstat rnf inet
+nmap
+nslookup
+net view
+net use
+net user
+
+telnet
+ping
+
+route
+route add
+route deletenmap
+scan
+tcpduping
+arpspoofmp
+route flush
+routed
+rtquery n
+rlogin -l
+
+ssh
+ss
+scp
+scp -r
+sftp
+sock
+socklab tcp
+sysctl net.inet.ip.forwarding=1
+
+tracert
+tracepath
+traceroute
+tcpdump
+tcpdump i -vvv

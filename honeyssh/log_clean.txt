@@ -1,0 +1,23 @@
+netstat -all
+tcpdump -w 0001.pcap -i eth0
+nmap 192.168.1.1
+pwd
+ping 192.168.1.1 –t -65500
+cat /Matrix/hello.txt
+echo “1? > /proc/sys/net/ipv4/ip_forward
+arpspoof -i 192.168.1.1 192.168.2.100
+mkdir project
+tcpdump -w 0002.pcap -i eth1
+pwd
+cd ..
+pwd
+nmap 192.168.2.100
+ifconfig
+ipconfig 
+tcpdump -w 0003.pcap -i eth2
+ls -la
+clear
+pwd
+touch /Matrix/hello.txt
+
+

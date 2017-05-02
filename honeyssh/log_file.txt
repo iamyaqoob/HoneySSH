@@ -1,0 +1,26 @@
+user add
+useradd
+ls -a
+ls -t
+exit
+chmod
+----------------
+!!!!!!!!!!!!!!!!!
+exit
+arch 
+apropos
+//////////////
+apt-get
+aptitude
+aspell
+awk
+nmap
+scan
+tcpdump
+alias
+ssh
+ss
+telnet
+ping
+ping
+arpspoof
